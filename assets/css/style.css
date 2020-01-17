@@ -1,0 +1,30 @@
+* {
+  font-family: "Roboto Condensed", sans-serif;
+
+  font-size: 16px;
+}
+
+header {
+  text-align: center;
+}
+
+.section1 {
+  background-color: teal;
+}
+
+figure {
+  background-color: beige;
+  color: beige;
+}
+
+a:hover {
+  background-color: beige;
+}
+
+a:focus {
+  background-color: lightgrey;
+}
+
+.header {
+  text-align: center;
+}
